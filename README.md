@@ -15,9 +15,10 @@ Available Sorting Algorithm Visualisations:
 To get started, download repository and follow the React Native CLI installation
 https://reactnative.dev/docs/environment-setup
 
+Ensure you install all dependencies by running `npm install`
+
 and running on simulator/device steps
 https://reactnative.dev/docs/running-on-simulator-ios
-https://reactnative.dev/docs/environment-setup
 
 ## Contributors
 
