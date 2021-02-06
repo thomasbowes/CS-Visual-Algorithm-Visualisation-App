@@ -1,0 +1,12 @@
+export const DARK_GRAY = '#222222';
+export const GRAY = '#808080';
+export const BLACK = '#000000';
+export const DARK_BLUE = 'rgba(0, 60, 143, 0.81)';
+export const PURPLE = '#6F74DD';
+export const RED = '#FF6584';
+export const GREEN = '#4CAF50';
+export const YELLOW = '#FFCC00';
+export const LIGHT_PURPLE = 'rgba(111, 116, 221, 0.4)';
+export const SALMON = 'rgba(255, 101, 132, 0.4)';
+export const WHITE = '#fff';
+export const DEACTIVATED_GRAY = '#567ef0';
