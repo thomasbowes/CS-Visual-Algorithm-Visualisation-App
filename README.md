@@ -17,7 +17,7 @@ https://reactnative.dev/docs/environment-setup
 
 Ensure you install all dependencies by running `npm install`
 
-and running on simulator/device steps
+Steps to run on simulator or device
 https://reactnative.dev/docs/running-on-simulator-ios
 
 ## Contributors
